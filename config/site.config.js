@@ -52,12 +52,13 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Discord',
-      link: 'https://discord.com/users/824373663281053707',
-
       name: 'Telegram',
       link: 'https://t.me/szymixsiorek',
     },
+    {
+      name: 'Discord',
+      link: 'https://discord.com/users/824373663281053707',
+    },  
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
