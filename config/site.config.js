@@ -54,6 +54,9 @@ module.exports = {
     {
       name: 'Discord',
       link: 'https://discord.com/users/824373663281053707',
+
+      name: 'Telegram',
+      link: 'https://t.me/szymixsiorek',
     },
   ],
 
